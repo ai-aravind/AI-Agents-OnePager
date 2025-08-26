@@ -36,8 +36,6 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 
 ---
 
-## 🏭 Industry UseCase MindMap
-![Industry Usecase](https://raw.githubusercontent.com/ashishpatel26/500-AI-Agents-Projects/refs/heads/main/images/industry_usecase1.png)
 
 ---
 
