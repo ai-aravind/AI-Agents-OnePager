@@ -6,8 +6,6 @@ Note: This file reproduces the information and links from the repository at:
 
 [![500-AI-Agents-Projects - UseCase](https://github.com/ai-aravind/AI-Agents-OnePager/blob/main/ChatGPT%20Image%20Aug%2026%2C%202025%2C%2010_32_20%20PM.png)
 
-![img](https://raw.githubusercontent.com/ashishpatel26/500-AI-Agents-Projects/refs/heads/main/images/AIAgentUseCase.jpg)
-
 A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨
 
 ---
