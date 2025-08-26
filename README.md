@@ -4,7 +4,7 @@ Note: This file reproduces the information and links from the repository at:
 - - Adapted for rendering in this repository with absolute image links and local references to CONTRIBUTING.md and LICENSE.
 - Attribution: Copyright (c) the respective original authors. Original README content licensed under MIT.
 
-[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/500--AI--Agents--Projects-UseCase-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+[![500-AI-Agents-Projects - UseCase](https://github.com/ai-aravind/AI-Agents-OnePager/blob/main/ChatGPT%20Image%20Aug%2026%2C%202025%2C%2010_32_20%20PM.png)
 
 ![img](https://raw.githubusercontent.com/ashishpatel26/500-AI-Agents-Projects/refs/heads/main/images/AIAgentUseCase.jpg)
 
