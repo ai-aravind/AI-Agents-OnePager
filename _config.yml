@@ -1,0 +1,8 @@
+title: AI Agents One Pager — Aravind Raghunathan
+description: Curated compilation of resources about Aravind Raghunathan from various public sources.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+# If using GitHub Pages, ensure these plugins are supported by Pages. If not, they will be ignored safely.
