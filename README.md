@@ -1,8 +1,7 @@
-# 🌟 500+ AI Agent Projects / UseCases (Sourced Copy)
+# 🌟 100+ AI Agent Projects Library of Use cases
 
 Note: This file reproduces the information and links from the repository at:
-- Source: https://github.com/ashishpatel26/500-AI-Agents-Projects (MIT License)
-- Adapted for rendering in this repository with absolute image links and local references to CONTRIBUTING.md and LICENSE.
+- - Adapted for rendering in this repository with absolute image links and local references to CONTRIBUTING.md and LICENSE.
 - Attribution: Copyright (c) the respective original authors. Original README content licensed under MIT.
 
 [![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/500--AI--Agents--Projects-UseCase-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/ashishpatel26/500-AI-Agents-Projects)
